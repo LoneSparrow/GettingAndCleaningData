@@ -6,7 +6,7 @@ Peer Assessments: Getting and Cleaning Data Course Project
 
 1-  Download the data from
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-* For this exercise, assuming you will set your working directory to the folder you unzip this data to.
+For this exercise, assuming you will set your working directory to the folder you unzip this data to.
 If not, please adjust the path accordingly.
 
 2- Place run_analysis.R script in your working directory.
